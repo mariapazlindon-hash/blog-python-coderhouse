@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "titulo": "Aprender Python",
+        "contenido": "Primeros pasos",
+        "autor": {
+            "nombre": "Paz",
+            "bio": "Estudiante de Python",
+            "especialidad": "Python",
+            "redes_sociales": [
+                "pazlindon"
+            ]
+        },
+        "tags": [
+            "Python"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Funciones en Python",
+        "contenido": "Uso de funciones",
+        "autor": {
+            "nombre": "Paz",
+            "bio": "Estudiante de Python",
+            "especialidad": "Python",
+            "redes_sociales": [
+                "pazlindon"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Funciones"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Listas en Python",
+        "contenido": "Uso de listas",
+        "autor": {
+            "nombre": "Paz",
+            "bio": "Estudiante de Python",
+            "especialidad": "Python",
+            "redes_sociales": [
+                "pazlindon"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Listas"
+        ],
+        "estado": "archivado"
+    },
+    {
+        "id": 4,
+        "titulo": "prendiendo clases en Python",
+        "contenido": "En este post aprendemos a crear clases y objetos en Python.",
+        "autor": {
+            "nombre": "Paz",
+            "bio": "Estudiante de Python",
+            "especialidad": "Python",
+            "redes_sociales": [
+                "pazlindon"
+            ]
+        },
+        "tags": [
+            "Python, Clases"
+        ],
+        "estado": "publicado"
+    }
+]
